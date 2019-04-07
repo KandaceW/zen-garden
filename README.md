@@ -1,15 +1,6 @@
 # Zen Garden
 
-1. When you have forked and cloned this repo, create a new branch called `zen-garden-tidy`.
-
-<figure>
-  <figcaption>
-    <p><strong>Figure 1:</strong> Creating a branch</p>
-  </figcaption>
-  <img src="/resources/images/github_16_zen_branch.PNG" alt="Creating a branch"><br>
-
-</figure>
-
+1. Once you have forked and cloned this repo, navigate into it and create a new branch called `zen-garden-tidy` (hint: `git checkout -b zen-garden-tidy
 2. Navigate to the `index.html` file and open your text editor.
 3.  What you are going to find in this file has a whole lot of untidy code that is in need of a clean up.  Following the guidelines in [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html), tidy up the code.
 4.  Once you have finished tidying up the code, change the name of the file to `zen-garden-tidy.html`.
