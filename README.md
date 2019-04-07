@@ -10,6 +10,7 @@
 Commit and push your changes to GitHub (push to your `zen-garden-tidy` branch, not to the `master` branch).
 
 5. Create new pull request from your `zen-garden-tidy` branch to your `master` branch (hint: Navigate repo on GitHub website and create the pull request from there).  
+
 6. Your pull request will be reviewed with your facilitator at your next 1:1. 
 
 
